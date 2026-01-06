@@ -39,14 +39,15 @@ Based in Lahore, Pakistan • Passionate about crafting immersive digital worlds
 <!-- Add more as needed – keep it focused on your strongest tools -->
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=S0haibR0mie&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=S0haibR0mie&theme=shadow_blue&hide_border=false&layout=compact&langs_count=8)
+![](https://github-readme-stats.vercel.app/api?username=S0haibR0mie&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=S0haibR0mie&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=S0haibR0mie&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🔥 Contribution Streak
 ![](https://streak-stats.demolab.com/?user=S0haibR0mie&theme=shadow_blue&hide_border=false)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=S0haibR0mie&theme=shadow_blue&no-frame=false&no-bg=false&margin-w=4&row=1)
+![](https://github-profile-trophy.vercel.app/?username=S0haibR0mie&theme=shadow_blue&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
@@ -55,6 +56,4 @@ Based in Lahore, Pakistan • Passionate about crafting immersive digital worlds
 ![](https://github-contributor-stats.vercel.app/api?username=S0haibR0mie&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-![Profile Views](https://visitcount.itsvg.in/api?id=S0haibR0mie&icon=0&color=0)
-
-<!-- Proudly created with love and GPRM[](https://gprm.itsvg.in) -->
+[![](https://visitcount.itsvg.in/api?id=S0haibR0mie&icon=0&color=0)](https://visitcount.itsvg.in)
