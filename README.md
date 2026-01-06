@@ -23,6 +23,6 @@ Based in **Lahore, Punjab, Pakistan**
 ![](https://github-contributor-stats.vercel.app/api?username=S0haibR0mie&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Rumi&icon=10&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=S0haibR0mie&icon=10&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
