@@ -1,37 +1,60 @@
-# Hi there, I'm Sohaib Romie 👋
+![Banner](https://via.placeholder.com/1200x300/0f172a/ffffff?text=Game+Developer+%7C+Founder+of+Codanum)  
+<!-- Replace the line above with your own banner: upload a file like banner.png to the repo and use ![](banner.png) -->
 
-![Header Image or Banner](https://via.placeholder.com/1200x300/0f172a/ffffff?text=Sohaib+Romie+-+Game+Developer+%26+Founder+Codanum)  
-<!-- Upload a custom game-themed banner to your repo (e.g., assets/banner.png) and link: ![](./assets/banner.png) -->
+# Hi, I'm Sohaib Romie 👋
 
-**Game Development Expert & Founder of Codanum** – Leading a studio with 20+ years of industry experience, delivering AAA titles, AR/VR experiences, UI/UX design, and technical consulting through a team of 350+ professionals across 8 global offices.
+**Game Development Expert & Founder of [Codanum](https://codanum.com)**  
+Leading a global studio delivering AAA titles, AR/VR experiences, UI/UX design, and technical solutions — backed by 20+ years of industry expertise.
 
-Based in **Lahore, Pakistan** • Passionate about Unity, Unreal Engine, XR tech, and building epic worlds.
+Based in Lahore, Pakistan • Passionate about crafting immersive digital worlds.
 
-### 🚀 About Me
-- 🔭 Leading Codanum: Consulting for game studios, AR/VR interactives, and full-stack dev.
-- 🌱 Exploring: Advanced Unreal Engine 5, multiplayer systems, procedural tech, and AI in games.
-- 👯 Collaborating on: AAA projects, indie games, AR/VR prototypes, or game tools.
-- 💼 Founder @ [Codanum](https://codanum.com)
-- 📫 Connect: [LinkedIn](https://www.linkedin.com/in/xrumix) | [Codanum.com](https://codanum.com)
+## 💫 About Me
+🔭 I’m currently working on **high-impact game projects and AR/VR innovations** at Codanum  
+👯 I’m looking to collaborate on **games, indie titles, Unreal/Unity prototypes, and XR experiences**  
+🤝 I’m looking for help with **talented 3D artists, multiplayer programmers, and narrative designers**  
+🌱 I’m currently learning **advanced Unreal Engine 5 features, Nanite/Lumen, and AI-driven gameplay systems**  
+💬 Ask me about **game development, studio management, AR/VR pipelines, and scaling dev teams**  
+⚡ Fun fact: **I've shipped features in over 20+ titles across consoles, PC, and mobile**
 
-### 🛠️ Tech Stack & Tools
-[![Skills](https://skillicons.dev/icons?i=unity,unreal,csharp,cpp,blender,photoshop,figma,git,docker,aws,js,react,&perline=10)](https://skillicons.dev)
-<!-- Update with your exact skills at skillicons.dev -->
+## 🌐 Socials
+[![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.gg/527906811425062933)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/rumi3xd)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/xrumix)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rumi@codanum.com)
 
-### 📊 GitHub Stats (Alternative - More Reliable)
-<!-- GitHub Readme Stats alternative using a different host -->
-![Sohaib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=S0haibR0mie&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
+## 💻 Tech Stack
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<!-- Fallback: If above fails often, try this alternative service -->
-<!-- ![Alt Stats](https://git-stats-card.vercel.app/api?username=S0haibR0mie&theme=radical) -->
+<!-- Add more as needed – keep it focused on your strongest tools -->
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=S0haibR0mie&layout=compact&theme=radical&hide_border=true)
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=S0haibR0mie&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=S0haibR0mie&theme=shadow_blue&hide_border=false&layout=compact&langs_count=8)
 
-### 🔥 Contribution Streak (Alternative to Heroku - Often More Stable)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=S0haibR0mie&theme=radical&hide_border=true)
-<!-- Alternative: https://streak-stats.demolab.com/?user=S0haibR0mie&theme=radical -->
+## 🔥 Contribution Streak
+![](https://streak-stats.demolab.com/?user=S0haibR0mie&theme=shadow_blue&hide_border=false)
 
-### 🏆 Trophies (Fun & Reliable)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=S0haibR0mie&theme=radical&no-frame=true&margin-w=15)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=S0haibR0mie&theme=shadow_blue&no-frame=false&no-bg=false&margin-w=4&row=1)
 
-Thanks for visiting! Check out [Codanum](https://codanum.com), star ⭐ my repos, and let's create amazing games! 🚀🎮
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 🔝 Top Contributed Repos
+![](https://github-contributor-stats.vercel.app/api?username=S0haibR0mie&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+![Profile Views](https://visitcount.itsvg.in/api?id=S0haibR0mie&icon=0&color=0)
+
+<!-- Proudly created with love and GPRM[](https://gprm.itsvg.in) -->
