@@ -1,7 +1,7 @@
 ![Banner](https://www.codanum.com/assets/brand-name-DSns_nkF.png)  
 <!-- Replace the line above with your own banner: upload a file like banner.png to the repo and use ![](banner.png) -->
 
-# Hi, I'm Sohaib Romie 👋
+# Hi, I'm Sohaib Rumi 👋
 
 **Game Development Expert & Founder of [Codanum](https://codanum.com)**  
 Leading a global studio delivering AAA titles, AR/VR experiences, UI/UX design, and technical solutions — backed by 4+ years of industry expertise.
