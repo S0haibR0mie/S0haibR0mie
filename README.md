@@ -4,7 +4,7 @@
 # Hi, I'm Sohaib Romie 👋
 
 **Game Development Expert & Founder of [Codanum](https://codanum.com)**  
-Leading a global studio delivering AAA titles, AR/VR experiences, UI/UX design, and technical solutions — backed by 20+ years of industry expertise.
+Leading a global studio delivering AAA titles, AR/VR experiences, UI/UX design, and technical solutions — backed by 4+ years of industry expertise.
 
 Based in Lahore, Pakistan • Passionate about crafting immersive digital worlds.
 
