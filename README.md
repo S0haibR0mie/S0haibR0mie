@@ -1,4 +1,4 @@
-![Banner](https://www.codanum.com/assets/brand-name-DSns_nkF.png)  
+![Banner](https://www.codanum.com/)  
 <!-- Replace the line above with your own banner: upload a file like banner.png to the repo and use ![](banner.png) -->
 
 # Hi, I'm Sohaib Rumi 👋
