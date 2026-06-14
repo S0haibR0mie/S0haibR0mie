@@ -1,6 +1,3 @@
-![Banner](https://www.codanum.com/)  
-<!-- Replace the line above with your own banner: upload a file like banner.png to the repo and use ![](banner.png) -->
-
 # Hi, I'm Sohaib Rumi 👋
 
 **Game Development Expert & Founder of [Codanum](https://codanum.com)**  
